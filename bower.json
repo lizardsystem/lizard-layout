@@ -3,9 +3,9 @@
     "version": "0.1dev",
     "homepage": "https://github.com/lizardsystem/lizard-layout",
     "authors": [
-        "TODO <TODO@nelen-schuurmans.nl>"
+        "Reinout van Rees <reinout@vanrees.org>"
     ],
-    "license": "GPL",
+    "license": "BSD",
     "private": true,
     "dependencies": {
 
