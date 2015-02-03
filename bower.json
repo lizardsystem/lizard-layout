@@ -8,7 +8,7 @@
     "license": "BSD",
     "private": true,
     "dependencies": {
-
+        "bootstrap": "3.3.2"
     },
     "ignore": [
         "**/.*",
