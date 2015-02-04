@@ -10,3 +10,5 @@ Changelog of lizard-layout
 - Added jquery and bootstrap via bower.
 
 - Started include templates for stylesheets and javascript.
+
+- Added Fira font (including styleshet that uses the font by default).
