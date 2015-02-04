@@ -1,0 +1,27 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="{% static 'lizard_layout/favicon.ico' %}">
+
+    {% include 'lizard_layout/stylesheets.html' %}
+
+    <title>Lizard-layout example</title>
+  </head>
+
+  <body role="document">
+    <div class="container">
+      <h1>Lizard-layout example</h1>
+
+      <p>
+        See <a href="https://github.com/lizardsystem/lizard-layout/blob/master/README.rst">the
+          README</a> for usage instructions.
+      </p>
+    </div>
+
+    {% include 'lizard_layout/stylesheets.html' %}
+  </body>
+</html>
