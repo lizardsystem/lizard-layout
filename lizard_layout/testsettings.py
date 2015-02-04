@@ -83,16 +83,12 @@ SITE_ID = 1
 SECRET_KEY = 'This is not secret but that is ok.'
 INSTALLED_APPS = [
     'lizard_layout',
-    'lizard_ui',
-    'south',
     'django_nose',
-    'lizard_security',
     'django_extensions',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
-    'django.contrib.gis',
     'django.contrib.sites',
     'django.contrib.staticfiles',
     ]
@@ -105,7 +101,6 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
-    'lizard_security.middleware.SecurityMiddleware',
     'tls.TLSRequestMiddleware',
     )
 
