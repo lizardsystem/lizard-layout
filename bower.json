@@ -11,7 +11,10 @@
         "bootstrap": "3.3.2",
         "fira": "0.1.0"
     },
+    "main": [],
     "ignore": [
+        "*",
+        "**/*",
         "**/.*",
         "node_modules",
         "bower_components",
