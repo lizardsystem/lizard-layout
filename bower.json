@@ -9,8 +9,8 @@
     "private": true,
     "dependencies": {
         "bootstrap": ">= 3.0 < 4.0",
-        "DataTables": ">- 1.9"
-        "Fira": "0.1.0",
+        "DataTables": ">- 1.9",
+        "Fira": "0.1.0"
     },
     "main": [],
     "ignore": [
