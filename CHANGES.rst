@@ -14,3 +14,5 @@ Changelog of lizard-layout
 - Added Fira font (including styleshet that uses the font by default).
 
 - Added datatables jquery plugin, including the visual bootstrap integration.
+
+- Added bootstrap-datepicker.
