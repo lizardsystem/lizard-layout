@@ -10,7 +10,8 @@
     "dependencies": {
         "bootstrap": ">= 3.0 < 4.0",
         "DataTables": ">= 1.9",
-        "fira": "0.1.0"
+        "fira": "0.1.0",
+        "bootstrap-datepicker": ""
     },
     "main": [],
     "ignore": [
